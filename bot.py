@@ -12,7 +12,7 @@ TOKEN = "8935218064:AAEWRF37n6ENH89rqtgAnvvbZL4eNOvz5Hk"
 ADMIN_ID = 5566924199  
 
 # Loyihangizning shaxsiy Render havolasi (Oxirida / belgisi bo'lmasligi shart!)
-RENDER_URL = "https://onrender.com" 
+RENDER_URL = "https://my-telegram-bot-bgpc.onrender.com" 
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
