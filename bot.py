@@ -11,7 +11,7 @@ from aiohttp import web
 
 # Token va Admin ID
 TOKEN = "8935218064:AAEWRF37n6ENH89rqtgAnvvbZL4eNOvz5Hk"
-ADMIN_ID = 5566924199  
+ADMIN_ID = 7538979574  
 
 # Loyihangizning shaxsiy Render havolasi
 RENDER_URL = "https://my-telegram-bot-bgpc.onrender.com" 
